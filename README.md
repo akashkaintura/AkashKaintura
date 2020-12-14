@@ -114,8 +114,7 @@ These are some of the technologies and tools that I work with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkaintura&layout=compact&langs_count=8)](https://github.com/akashkaintura/github-readme-stats)
 
-[![Wakatime's Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashkaintura)](https://github.com/akashkainturagithub-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashkaintura)](https://github.com/akashkaintura/github-readme-stats)
 </p>
 
 -------
