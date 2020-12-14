@@ -85,11 +85,11 @@ These are some of the technologies and tools that I work with:
 
 #### :octocat:  Github Stats
 
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashkaintura&show_icons=true&theme=dracula)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashkaintura&show_icons=true&theme=Gradient)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkaintura&layout=compact&langs_count=8)](https://github.com/akashkaintura/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkaintura&langs_count=8)](https://github.com/akashkaintura/github-readme-stats)
 
-[![Akash's stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashkaintura)](https://github.com/akashkaintura/github-readme-stats)
+[![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashkaintura)](https://github.com/akashkaintura/github-readme-stats)
 
 </p>
 
