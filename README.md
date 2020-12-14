@@ -34,10 +34,10 @@
 - ⚡ Fun fact: Brain is forever a nerd.
 
 <br>
-
-<a title="DEV.to" href="https://dev.to/akashkaintura">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
-</a>
+<p align ="center">
+    <a title="DEV.to" href="https://dev.to/akashkaintura">
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
+    </a>
 
 <a title="LinkedIn" href="https://www.linkedin.com/in/akash-kaintura/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
@@ -50,6 +50,8 @@
  <a title="Twitter" href="https://instagram.com/enfield_explorer">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
   </a>
+
+  </p>
 
 <br>
 
