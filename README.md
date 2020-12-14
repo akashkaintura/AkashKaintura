@@ -70,6 +70,7 @@
 
 
 ## 🔧 Technologies & Tools
+
 These are some of the technologies and tools that I work with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -83,12 +84,14 @@ These are some of the technologies and tools that I work with:
 ![Flutter] (https://img.shields.io/badge/-flutter-blue?style=flat-square&logo=flutter)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<br>
 #### :octocat:  Github Stats
+
 <br>
 
 ![Akash github stats](https://github-readme-stats.vercel.app/api?username=akashkaintura&theme=algolia&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkaintura&langs_count=8)](https://github.com/akashkaintura/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkaintura&layout=compact&langs_count=8)](https://github.com/akashkaintura/github-readme-stats)
 
 
 
