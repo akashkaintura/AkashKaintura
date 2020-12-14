@@ -84,13 +84,10 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 #### :octocat:  Github Stats
-<p align="center">
-    ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashkaintura&show_icons=true&theme=dracula)
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkaintura&layout=compact&langs_count=8)](https://github.com/akashkaintura/github-readme-stats)
-
-
-    [![Akash's Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashkaintura)](https://github.com/akashkaintura/github-readme-stats)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashkaintura&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkaintura&layout=compact&langs_count=8)](https://github.com/akashkaintura/github-readme-stats)
+[![Akash's Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashkaintura)](https://github.com/akashkaintura/github-readme-stats)
 </p>
 
 -------
