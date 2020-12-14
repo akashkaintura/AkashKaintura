@@ -34,22 +34,22 @@
 - ⚡ Fun fact: Brain is forever a nerd.
 
 <br>
+<p align ="center">
+    <a title="DEV.to" href="https://dev.to/akashkaintura">
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" />
+    </a>
 
-![DEV] [(https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)] (https://dev.to/akashkaintura)
 
-![Linkedin] [(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/akash-kaintura/)
+<a title="LinkedIn" href="https://www.linkedin.com/in/akash-kaintura/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
 
-![Mail] [(https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)] (mailto:akashkaintura@yahoo.com)
-<!-- <a title="LinkedIn" href="https://www.linkedin.com/in/akash-kaintura/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="50" height="50" />
-</a> -->
-
-<!-- <a title="Email" href="mailto:akashkaintura@yahoo.com">
-    <img src="https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" width="50" height="50" />
-</a> -->
+<a title="Email" href="mailto:akashkaintura@yahoo.com">
+    <img src="https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"  />
+</a>
 
  <a title="Instagram" href="https://instagram.com/enfield_explorer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="50" height="50" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  />
   </a>
 
   </p>
@@ -91,14 +91,14 @@ These are some of the technologies and tools that I work with:
 
 ## 💻 Workspace Spec
 
-![Apple] (https://img.shields.io/badge/Apple-MacBook-999999?style=for-the-badge&logo=apple&logoColor=white)
-![Intel] (https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-MacBook-999999?style=for-the-badge&logo=apple&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 <br>
 
 ## 📱 Contact
 ![WhatsApp] (https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-) (https://wa.me/918979594537)
+) (https://wa.me/+91 8979594537)
 
 
 #### :octocat:  Github Stats
