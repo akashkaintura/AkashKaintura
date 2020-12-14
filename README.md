@@ -104,7 +104,7 @@ These are some of the technologies and tools that I work with:
 
 ## 📱 Contact
 
-<a href="https://wa.me/+91 8979594537">
+<a href="https://wa.me/8979594537">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
