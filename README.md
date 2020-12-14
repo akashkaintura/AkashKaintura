@@ -34,19 +34,19 @@
 - ⚡ Fun fact: Brain is forever a nerd.
 
 <br>
-<p align ="center">
-    <a title="DEV.to" href="https://dev.to/akashkaintura">
-        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
-    </a>
 
+![DEV] [(https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)] (https://dev.to/akashkaintura)
 
-<a title="LinkedIn" href="https://www.linkedin.com/in/akash-kaintura/">
+![Linkedin] [(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/akash-kaintura/)
+
+![Mail] [(https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)] (mailto:akashkaintura@yahoo.com)
+<!-- <a title="LinkedIn" href="https://www.linkedin.com/in/akash-kaintura/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="50" height="50" />
-</a>
+</a> -->
 
-<a title="Email" href="mailto:akashkaintura@yahoo.com">
+<!-- <a title="Email" href="mailto:akashkaintura@yahoo.com">
     <img src="https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" width="50" height="50" />
-</a>
+</a> -->
 
  <a title="Instagram" href="https://instagram.com/enfield_explorer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="50" height="50" />
