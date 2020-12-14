@@ -71,16 +71,17 @@
 
 ## 🔧 Technologies & Tools
 These are some of the technologies and tools that I work with:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/#E10098/icons/php.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gitea.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mailchimp.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/graphql.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black)
+![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Flutter] (https://img.shields.io/badge/-flutter-blue?style=flat-square&logo=flutter)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 #### :octocat:  Github Stats
 <p align="center">
