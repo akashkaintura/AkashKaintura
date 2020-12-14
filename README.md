@@ -84,12 +84,13 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 #### :octocat:  Github Stats
+<br>
 
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashkaintura&show_icons=true&theme=Gradient)
+![Akash github stats](https://github-readme-stats.vercel.app/api?username=akashkaintura&theme=algolia&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkaintura&langs_count=8)](https://github.com/akashkaintura/github-readme-stats)
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashkaintura)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 </p>
 
