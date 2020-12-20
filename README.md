@@ -22,11 +22,11 @@
 
 <br>
 
-- 🔭 I’m currently working on LAMP Stack.
-- 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate on working on new  projects.
-- 📫 How to reach me: [![YMail](https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:akashkaintura@yahoo.com)
-- ⚡ Fun fact: Brain is forever a nerd.
+- 🔭  I’m currently working on LAMP Stack.
+- 🌱  I’m currently learning Flutter.
+- 👯  I’m looking to collaborate on working on new  projects.
+- 📫  How to reach me: [![YMail](https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:akashkaintura@yahoo.com)
+- ⚡   Fun fact: Brain is forever a nerd.
 
 <br>
 
