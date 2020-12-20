@@ -6,7 +6,7 @@
     <img align="center" width="5%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="header"/>
   <br>
   <h1 align="center">H!, folks I am Akash  👋 </h1>
-    My name is Akash Kaintura and I'm a software developer. I'm from India 🇮🇳, living in Rishikesh and currently working at RubicoIT Pvt Ltd.
+    My name is Akash Kaintura and I'm a software developer. I'm from India 🇮🇳 living in Rishikesh and currently working at RubicoIT Pvt Ltd.
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on LAMP Stack.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on working on new  projects.
-- 📫 How to reach me: ![YMail](https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+- 📫 How to reach me: [![YMail](https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)(href="mailto:akashkaintura@yahoo.com)
 - ⚡ Fun fact: Brain is forever a nerd.
 
 <br>
