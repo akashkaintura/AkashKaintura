@@ -116,8 +116,7 @@ These are some of the technologies and tools that I work with:
 
 <!--START_SECTION:waka-->
 ```text
-PHP          19 mins         ██████████████████▒░░░░░░   73.51 % 
-Git Config   6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.49 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </p>
