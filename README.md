@@ -15,11 +15,6 @@
 
 <br>
 
-<p align="center" >
-    <h1>## &#x270d; Blog & Writing</h1>
-    [![AKASH KAINTURA's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/akashkaintura)]
-</p>
-
 <br>
 
 - 🔭  I’m currently working on LAMP Stack.
