@@ -88,8 +88,7 @@ These are some of the technologies and tools that I work with:
 
 ## 💻 OS 
 
-[![Mac OS](https://img.shields.io/badge/Big Sur-000000?style=for-the-badge&logo=MacOS&logoColor=white)](link:www.apple.com/in/macos/big-sur)
-
+![Mac OS](https://img.shields.io/badge/Big Sur-000000?style=for-the-badge&logo=MacOS&logoColor=white)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](link:https://ubuntu.com)
 
 <br>
