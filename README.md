@@ -60,6 +60,9 @@
 <br>
 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1a131ea9-4f99-4fe5-80e2-e65278a7cdd8/deploy-status)](https://app.netlify.com/sites/akashkaintura/deploys)
+
+
 
 ## 🚀 Skills
 
