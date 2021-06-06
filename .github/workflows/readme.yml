@@ -1,0 +1,16 @@
+name: Akash Kaintura
+on: 
+  schedule:
+    #Run every hour
+    - cron : '0 * * * *'
+    workflow_dispatch:
+    
+jobs:
+  update-readme:
+    name: update this repo's Readme with Akash kaintura
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: akashkaintura/AkashKaintura@main
+        with:
+          feed_list: "https://wakatime.com/@akashkaintura"
