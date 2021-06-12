@@ -105,7 +105,7 @@ These are some of the technologies and tools that I work with:
 
                                                                                                                         
  <a href="https://www.instagram.com/akash_kaintura_sd">                                                                                                           
- <img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+ <img alt="Instagram" src="https://img.shields.io/badge/<akash_kaintura_sd>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
                                                                                                                       
 
 
