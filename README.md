@@ -100,6 +100,15 @@ These are some of the technologies and tools that I work with:
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
+<a href="https://web.tlgr.org/#/im?p=@akashkaintura">
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+
+                                                                                                                        
+ <a href="https://www.instagram.com/akash_kaintura_sd">                                                                                                           
+ <img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+                                                                                                                      
+
+
 <br>
 
 #### :octocat:  Github Stats
