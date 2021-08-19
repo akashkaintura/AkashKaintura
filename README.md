@@ -6,7 +6,7 @@
     <img align="center" width="5%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="header"/>
   <br>
   <h1 align="center">H!, folks I am Akash  👋 </h1>
-    My name is Akash Kaintura and I'm a software developer. I'm from India 🇮🇳 living in(Yoga Capital) Uttarakhand and currently working at RubicoIT Pvt Ltd.
+    My name is Akash Kaintura and I'm a software developer. I'm from India 🇮🇳 living in(Yoga Capital) Uttarakhand.
 </p>
 
 <p align="center">
