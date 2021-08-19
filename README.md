@@ -41,10 +41,6 @@
     <img src="https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"  />
 </a>
 
- <a title="Instagram" href="https://instagram.com/enfield_explorer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  />
-  </a>
-
   </p>
 
 <br>
