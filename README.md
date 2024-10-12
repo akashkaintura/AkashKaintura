@@ -37,8 +37,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-<a title="Email" href="mailto:akashkaintura@yahoo.com">
-    <img src="https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"  />
+<a title="Email" href="mailto:akashkaintura.ak@gmail.com">
+    [<img src="https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"  />](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
 
   </p>
@@ -50,7 +50,7 @@
         <img src="https://img.shields.io/github/followers/akashkaintura?style=for-the-badge"/>
     </a>
 
-  <a href="https://www.linkedin.com/in/akash-kaintura/" target="_blank">
+  <a href="https://www.linkedin.com/in/akashkaintura/" target="_blank">
         <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&link=www.linkedin.com/in/akashkaintura"/>
     </a>
 </p>
@@ -63,30 +63,34 @@
 These are some of the technologies and tools that I work with:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 <br>
 
 
+## Test 
+https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white
+https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red
+
+## Cloud 
+https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
+https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white
+
 ## 💻 Workspace Spec
 
 ![Apple](https://img.shields.io/badge/Apple-MacBook-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 
-## 💻 OS 
-
-![Mac OS](https://img.shields.io/badge/catalina-000000?style=for-the-badge&logo=MacOS&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+## 💻 IDE
+![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <br>
 
@@ -98,12 +102,6 @@ These are some of the technologies and tools that I work with:
 
 <a href="https://web.tlgr.org/#/im?p=@akashkaintura">
 <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-
-                                                                                                                        
- <a href="https://www.instagram.com/akash_kaintura_sd">                                                                                                           
- <img alt="Instagram" src="https://img.shields.io/badge/<akash_kaintura_sd>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-                                                                                                                      
-
 
 <br>
 
