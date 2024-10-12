@@ -5,8 +5,8 @@
 <p align="center">
     <img align="center" width="5%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="header"/>
   <br>
-  <h1 align="center">H!, folks I am Akash  👋 </h1>
-    My name is Akash Kaintura and I'm a software developer. I'm from India 🇮🇳 living in(Yoga Capital) Uttarakhand.
+  <h1 align="center">H!, folks I am Akash Kaintura  👋 </h1>
+    My name is Akash Kaintura and I'm a software Engineer.I'm from India 🇮🇳 living in Rishikesh,Uttarakhand.
 </p>
 
 <p align="center">
@@ -19,8 +19,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1a131ea9-4f99-4fe5-80e2-e65278a7cdd8/deploy-status)](https://app.netlify.com/sites/akashkaintura/deploys)
 
-- 🔭  I’m currently working on LAMP Stack.
-- 🌱  I’m currently learning Flutter.
+- 🔭  I’m currently working on Javascript Domain .
+- 🌱  I’m currently Blockchain.
 - 👯  I’m looking to collaborate on working on new  projects.
 - 📫  How to reach me: [![YMail](https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:akashkaintura@yahoo.com)
 - ⚡   Fun fact: Brain is forever a nerd.
@@ -33,7 +33,7 @@
     </a>
 
 
-<a title="LinkedIn" href="https://www.linkedin.com/in/akash-kaintura/">
+<a title="LinkedIn" href="https://www.linkedin.com/in/akashkaintura/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
