@@ -22,7 +22,7 @@
 - 🔭  I’m currently working on Javascript Domain .
 - 🌱  I’m currently Blockchain.
 - 👯  I’m looking to collaborate on working on new  projects.
-- 📫  How to reach me: [![YMail](https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:akashkaintura@yahoo.com)
+- 📫  How to reach me: [![gmailk](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashkaintura.ak@gmail.com)
 - ⚡   Fun fact: Brain is forever a nerd.
 
 <br>
@@ -38,7 +38,7 @@
 </a>
 
 <a title="Email" href="mailto:akashkaintura.ak@gmail.com">
-    [<img src="https://img.shields.io/badge/YahooMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"  />](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+    [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>]
 </a>
 
   </p>
