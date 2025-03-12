@@ -56,7 +56,7 @@
 <br>
 
 
-## 🚀 Skills
+## 🚀 Skills [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30308%26project%3D%26in=0)](https://codetime.dev)
 
 These are some of the technologies and tools that I work with:
 
@@ -111,13 +111,6 @@ These are some of the technologies and tools that I work with:
 ![Akash github stats](https://github-readme-stats.vercel.app/api?username=akashkaintura&theme=algolia&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkaintura&layout=compact&langs_count=8)](https://github.com/akashkaintura/github-readme-stats)
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-</p>
 
 -------
 
